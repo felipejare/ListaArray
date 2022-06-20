@@ -1,0 +1,3 @@
+Repositório:https://github.com/GustavodePaulaGorges/Exercicio-Array
+
+Site funcional:https://gustavodepaulagorges.github.io/Exercicio-Array/
